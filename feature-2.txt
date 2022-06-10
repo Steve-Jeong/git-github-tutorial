@@ -1,3 +1,5 @@
 feature 2
 some more features added
 again, features are added
+new features are added
+
